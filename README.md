@@ -71,7 +71,7 @@ public class balls : MonoBehaviour
 }
 ```
 # Output:
-![Uploading image.png…]()
+![image](https://github.com/haritha-venkat/RollaBall/assets/121285701/862e8a56-1ab5-4691-8e97-d177738b339d)
 
 
 # Result:
