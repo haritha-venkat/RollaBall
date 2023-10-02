@@ -22,7 +22,7 @@ Hierarchy -> Player-> Inspector ->Add component-> Rigidbody
 
 Create a new script -> Create a folder in project (Name: Scripts) Hierarchy -> Player -> Inspector-> AddComponent-> NewScripts-> PlayerController( Click create and Add) Copy the PlayerController and drag to Script folder Double click the PlayerController file and type the coding
 
-Program:
+## Program:
 ```python
 Name: harithashree.v
 
